@@ -22,3 +22,5 @@ services:
         value: 2
       - key: DJANGO_SUPERUSER_PASSWORD
         generateValue: true
+      - key: PYTHON_VERSION
+        value: 3.9.1
